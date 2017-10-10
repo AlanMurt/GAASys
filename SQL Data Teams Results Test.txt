@@ -1,0 +1,11 @@
+UPDATE TEAMS
+SET Won = 11, lost = 0, drawn = 0, scoresfor = 150, scoresagainst = 50, Points = 22
+WHERE Teamid = 1;
+
+UPDATE TEAMS
+SET Won = 9, lost = 1, drawn = 1, scoresfor = 140, scoresagainst = 60, Points = 19
+WHERE Teamid = 2;
+
+UPDATE TEAMS
+SET Won = 7, lost = 1, drawn = 3, scoresfor = 121, scoresagainst = 85, Points = 15
+WHERE Teamid = 3;

@@ -1,0 +1,167 @@
+INSERT INTO TEAMS
+VALUES (1, 
+'Killarney Legion',
+'Direen', 
+'KL@gaa.ie',
+'Tom',
+'0867472614',
+0, 
+0, 
+0, 
+0, 
+0, 
+0);
+
+INSERT INTO TEAMS
+VALUES (2, 
+'Crokes',
+'Killarney',
+'Cr@gaa.ie',
+'Paul',
+'0868385638',
+0, 
+0, 
+0, 
+0, 
+0, 
+0);
+
+INSERT INTO TEAMS
+VALUES (3, 
+'Templenoe',
+'Templenoe',
+'Tmpl@gaa.ie',
+'Luke',
+'0892627172',
+0, 
+0, 
+0, 
+0, 
+0, 
+0);
+
+INSERT INTO TEAMS
+VALUES (4, 
+'Fossa',
+'Fossa',
+'Fossa@gaa.ie',
+'Jamie',
+'00837171539',
+0, 
+0, 
+0, 
+0, 
+0, 
+0);
+
+INSERT INTO TEAMS
+VALUES (5, 
+'Kilcummin',
+'Kilcummin',
+'Kc@gaa.ie',
+'Brendan',
+'0867472614',
+0, 
+0, 
+0, 
+0, 
+0, 
+0);
+
+INSERT INTO TEAMS
+VALUES (6, 
+'Glenbeigh-Glencar',
+'Glenbeigh',
+'Gg@gaa.ie',
+'Pat',
+'0862846210',
+0, 
+0, 
+0, 
+0, 
+0, 
+0);
+
+INSERT INTO TEAMS
+VALUES (7, 
+'Kerins O Rahillys',
+'Kerins O Rahillys',
+'KoR@gaa.ie',
+'Kyle',
+'0868483647',
+0, 
+0, 
+0, 
+0, 
+0, 
+0);
+
+INSERT INTO TEAMS
+VALUES (8, 
+'Austin Stacks',
+'Tralee',
+'AS@gaa.ie',
+'Gregg',
+'0869491952',
+0, 
+0, 
+0, 
+0, 
+0, 
+0);
+
+INSERT INTO TEAMS
+VALUES (9, 
+'Dingle',
+'Dingle',
+'Di@gaa.ie',
+'Fungi',
+'0852826262',
+0, 
+0, 
+0, 
+0, 
+0, 
+0);
+
+INSERT INTO TEAMS
+VALUES (10, 
+'Kenmare Shamrocks',
+'Kenmare',
+'Ken@gaa.ie',
+'Mark',
+'08827382738',
+0, 
+0, 
+0, 
+0, 
+0, 
+0);
+
+INSERT INTO TEAMS
+VALUES (11, 
+'John Mitchels',
+'John Mitchels',
+'JM@gaa.ie',
+'Mary',
+'089872725',
+0, 
+0, 
+0, 
+0, 
+0, 
+0);
+
+INSERT INTO TEAMS
+VALUES (12, 
+'Castleisland Desmonds',
+'Castleisland',
+'Castle@gaa.ie',
+'Thomas',
+'0878286384',
+0, 
+0, 
+0, 
+0, 
+0, 
+0);
